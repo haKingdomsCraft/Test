@@ -2,9 +2,7 @@
 
 
 namespace Test\haKing;
-
 // Only your directory name! Never forget this!
-
 use pocketmine\Server;
 // acts as youre calling the server
 use pocketmine\Player;
