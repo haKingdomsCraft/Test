@@ -1,8 +1,11 @@
 name: Test
-main: Trex\Main
-version: 1.0
-api: [3.0.0, 4.0.0]
-author: King
+api:
+- 3.0.0
+- 4.0.0
+main: haKing\Main
+version: 1.0.0
+description: Test
 commands:
-  test:
-    description: "test command"
+   Test:
+      usage: /Test
+      description: Testing Command
