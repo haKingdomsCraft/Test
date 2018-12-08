@@ -7,19 +7,14 @@ namespace Test\haKing;
 
 use pocketmine\Server;
 // acts as youre calling the server
-
 use pocketmine\Player;
 // acts as youre calling the player
-
 use pocketmine\command\Command;
 // acts as a command base
-
 use pocketmine\command\CommandSender;
 // acts as you when executing a command!
-
 use pocketmine\plugin\PluginBase;
 // a base for your plugin. BRAIN for it!
-
 use pocketmine\event\Listener;
 // acts as a ear to listen your command!
 
